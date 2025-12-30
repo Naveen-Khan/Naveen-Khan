@@ -1,16 +1,66 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Naveen-Khan/Naveen-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+    
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+# 👋 Hello, I'm Naveen Khan!   
+
+
+
+</div>
+
+
+Welcome to my GitHub profile! I'm a passionate Computer System Engineer who loves to building innovative solutions and contributing to open-source projects.
+
+## 🚀 About Me
+- 💼 Currently working as/on: Web Developer
+- 🌱 Learning:I am currently learning AI
+- 👯 Looking to collaborate on: AI projects
+- ⚡ Fun fact: I am passionate to learning new technology
+
+## 🛠️ Tech Stack
+
+
+**Core Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+
+**Web Development**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+**Databases**  
+![NYSQL](https://img.shields.io/badge/MYSQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+**IOT**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveen-khan-417103258?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="mailto:naveenkhan0059@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
+  </a>
+</p>
+
+## Education
+
+- **BE in Computer System Engineering** - Mehran University of Engineering and techology (fall 2025)
+
+
+<p align="center">
+  <i>Open to interesting opportunities and collaborations</i>
+</p>
+
+
