@@ -3,7 +3,7 @@
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
     
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Female Developer Coding" width="60%"/><br>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Anime Girl Coding" width="60%"/><br>
 
 
 # 👋 Hello, I'm Naveen Khan!   
