@@ -4,6 +4,7 @@
     
 
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Anime Girl Coding" width="60%"/><br>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Girl Coding" width="60%"/><br>
 
 
 # 👋 Hello, I'm Naveen Khan!   
