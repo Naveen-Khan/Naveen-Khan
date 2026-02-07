@@ -63,11 +63,11 @@ Welcome to my GitHub profile! I'm a passionate Computer System Engineer who love
 
 - **BE in Computer System Engineering** - Mehran University of Engineering and techology (fall 2025)
 
+## Portfolio
+<a href="https://naveen-khan.github.io/Naveen-Khan-Portfolio.github.io/">
 
+ 
 <p align="center">
   <i>Open to interesting opportunities and collaborations</i>
 </p>
-
-<p>Portfolio:<a href="https://naveen-khan.github.io/Naveen-Khan-Portfolio.github.io/"</a></p>
-
 
