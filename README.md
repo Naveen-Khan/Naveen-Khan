@@ -14,9 +14,9 @@
 Welcome to my GitHub profile! I'm a passionate Computer System Engineer who loves to building innovative solutions and contributing to open-source projects.
 
 ## 🚀 About Me
-- 💼 Currently working as/on: Web Developer
+- 💼 Currently working as : Ai intern @ ITSOLERA PVT LTD
 - 🌱 Learning:I am currently learning AI
-- 👯 Looking to collaborate on: AI projects
+- 👯 Looking to collaborate on: Building  intelligent solution based on ai
 - ⚡ Fun fact: I am passionate to learning new technology
 
 ## 🛠️ Tech Stack
