@@ -6,7 +6,7 @@
 
 # Hello, I'm Naveen Khan
 
-**AI Engineer | LLM & Computer Vision Enthusiast**
+**AI/ML Engineer | LLM & Computer Vision Enthusiast**
 
 <a href="https://www.linkedin.com/in/naveen-khan-417103258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:naveenkhan0059@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
