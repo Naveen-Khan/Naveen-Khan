@@ -8,11 +8,25 @@ Welcome to my GitHub profile! I'm a passionate Computer Systems Engineer who lov
 
 ## 🚀 About Me
 - 💼 Currently working as: AI Engineer Intern @ Itsolera Pvt. Ltd.
-- 🌱 Learning: Large Language Models, RAG pipelines, and MLOps
+- 🧠 Specializing in: LLM integration, RAG pipelines, and Computer Vision (CNNs)
+- 🌱 Learning: Prompt engineering, fine-tuning, and MLOps
 - 👯 Looking to collaborate on: building intelligent, AI-powered solutions
 - ⚡ Fun fact: I'm always excited to learn new technologies
 
 ## 🛠️ Tech Stack
+
+**AI & Machine Learning**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**LLMs & AI Automation**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Core Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
