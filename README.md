@@ -1,74 +1,86 @@
 <div align="center">
 
-# Naveen Khan
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding illustration" width="55%"/>
 
-AI Engineer · LLM & Computer Vision
+<br><br>
 
-[LinkedIn](https://www.linkedin.com/in/naveen-khan-417103258) · [Email](mailto:naveenkhan0059@gmail.com) · [Portfolio](https://naveen-khan.github.io/portfolio/) · [GitHub](https://github.com/Naveen-Khan)
+# Hello, I'm Naveen Khan
 
-</div>
+**AI Engineer | LLM & Computer Vision Enthusiast**
 
----
-
-### About
-
-Computer Systems Engineering graduate building real-world AI products — from RAG-powered chatbots to medical image diagnosis tools. Focused on shipping practical AI that reduces operational costs and solves real problems.
-
-- Currently: AI Engineer Intern at Itsolera Pvt. Ltd.
-- Focus areas: LLM integration, RAG pipelines, computer vision
-- Currently learning: Prompt engineering, fine-tuning, MLOps
-- Open to collaborate on: intelligent, AI-powered products
-
----
-
-### Tech stack
-
-**AI & Machine Learning**
-`Python` `TensorFlow` `Keras` `OpenCV` `Streamlit`
-
-**LLMs & AI Automation**
-`LangChain` `Hugging Face` `n8n` `FastAPI`
-
-**Web Development**
-`HTML` `CSS` `JavaScript` `PHP`
-
-**IoT & Embedded**
-`Arduino` `Raspberry Pi` `ESP32`
-
-**Data & Tools**
-`MySQL` `Excel` `Power BI` `Git`
-
----
-
-### Featured projects
-
-**[AI Chatbot Assistant (CATI)](https://github.com/Naveen-Khan/CATI--chatbot)**
-RAG-based dialogue agent using Mistral LLM, Groq API, and FAISS semantic search — improved response efficiency by 40% across 50+ documents.
-`RAG` `FastAPI` `LangChain` `NLP`
-
-**[Medical Disease Diagnosis Agent](https://github.com/Naveen-Khan/Deep-learning-Projects/tree/main/Brain-tumor-Classification)**
-DenseNet121 classifier on MRI data — 95% training and 93% validation accuracy with zero overfitting. Clinician-facing Streamlit interface.
-`TensorFlow` `Keras` `CNNs` `Streamlit`
-
-**[Machdollas AI Customer Support Agent](https://machdonals-ai-agent.vercel.app/)**
-24/7 autonomous AI agent using n8n and Google Gemini, cutting manual support workload by 65% and order errors by 40%.
-`n8n` `Google Gemini` `Webhooks` `Vercel`
-
-**[Multimodal Smart Wearable for Safety](https://github.com/Naveen-Khan/Multimodal-Smar-Wearable-Device-For-Personal-Saftey)**
-YOLO-based threat detection at 91% precision, with GPS tracking and panic-button alerts. 2nd place, IEEE CS Society Exhibition, MUET 2025.
-`ESP32` `OpenCV` `YOLO` `IoT`
-
----
-
-### Education
-
-**BE in Computer Systems Engineering**
-Mehran University of Engineering and Technology — CGPA 3.6/4.0 — Nov 2021 to Jan 2026
-
----
-
-<div align="center">
-
-Open to interesting opportunities and collaborations
+<a href="https://www.linkedin.com/in/naveen-khan-417103258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:naveenkhan0059@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://naveen-khan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-1D9E75?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
+
+<br>
+
+Welcome to my GitHub profile. I'm a Computer Systems Engineering graduate who builds practical AI solutions and contributes to open-source projects.
+
+## About me
+
+- **Currently working as:** AI Engineer Intern @ Itsolera Pvt. Ltd.
+- **Currently learning:** Prompt engineering, fine-tuning, MLOps
+- **Looking to collaborate on:** intelligent, AI-powered solutions
+- **Focus areas:** LLM integration, RAG pipelines, computer vision
+
+## Tech stack
+
+**AI & Machine Learning**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+**LLMs & AI Automation**  
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+**Core Languages**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+**Web Development**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+**Databases**  
+<img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+**IoT**  
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+**Data Analysis**  
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+
+## Education
+
+**BE in Computer Systems Engineering**  
+Mehran University of Engineering and Technology — Fall 2025
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/naveen-khan-417103258">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>
+  <a href="mailto:naveenkhan0059@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40"/>
+  </a>
+  <a href="https://naveen-khan.github.io/portfolio/">
+    <img src="https://img.icons8.com/fluency/48/internet.png" alt="Portfolio" width="40"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Open to interesting opportunities and collaborations</i>
+</p>
