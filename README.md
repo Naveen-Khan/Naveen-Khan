@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:6C5CE7,50:00B894,100:00CEC9&amp;height=180&amp;section=header&amp;text=Naveen%20Khan&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=AI%20Engineer%20|%20LLM%20%26%20Computer%20Vision&amp;descAlignY=62&amp;descColor=F1F1F1&amp;descSize=16" width="100%"/>
+# <span style="color:#6C5CE7">Naveen</span> <span style="color:#00CEC9">Khan</span>
+
+### AI Engineer | LLM &amp; Computer Vision
+
+<img src="https://img.shields.io/badge/-AI%20Engineer-6C5CE7?style=for-the-badge"/> <img src="https://img.shields.io/badge/-LLM%20%26%20RAG-00B894?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Computer%20Vision-00CEC9?style=for-the-badge"/>
 
 <a href="https://www.linkedin.com/in/naveen-khan-417103258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 <a href="mailto:naveenkhan0059@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
@@ -150,7 +154,7 @@ Mehran University of Engineering and Technology — CGPA 3.6/4.0 — Nov 2021 to
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:00CEC9,50:00B894,100:6C5CE7&amp;height=100&amp;section=footer" width="100%"/>
+---
 
 *Open to interesting opportunities and collaborations*
 
