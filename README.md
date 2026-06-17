@@ -2,9 +2,9 @@
 
 # <span style="color:#6C5CE7">Naveen</span> <span style="color:#00CEC9">Khan</span>
 
-### AI Engineer | LLM &amp; Computer Vision
+### AI/ML Engineer | Automation Engineer | LLM &amp; RAG
 
-<img src="https://img.shields.io/badge/-AI%20Engineer-6C5CE7?style=for-the-badge"/> <img src="https://img.shields.io/badge/-LLM%20%26%20RAG-00B894?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Computer%20Vision-00CEC9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-AI%2FML%20Engineer-6C5CE7?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Automation%20Engineer-00B894?style=for-the-badge"/> <img src="https://img.shields.io/badge/-LLM%20%26%20RAG-00CEC9?style=for-the-badge"/>
 
 <a href="https://www.linkedin.com/in/naveen-khan-417103258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
 <a href="mailto:naveenkhan0059@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
