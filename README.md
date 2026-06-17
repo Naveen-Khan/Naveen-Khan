@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Coding illustration" width="45%"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding illustration" width="40%"/>
 
 </div>
 
