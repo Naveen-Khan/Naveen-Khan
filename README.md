@@ -25,7 +25,7 @@
 
 Computer Systems Engineering graduate building real-world AI products — from RAG-powered chatbots to medical image diagnosis tools. Focused on shipping practical AI that reduces operational costs and solves real problems.
 
-- **Currently:** AI Engineer Intern @ Itsolera Pvt. Ltd.
+- **Currently:**Currently looking for oportunity as Ai Engineer
 - **Focus areas:** LLM integration, RAG pipelines, computer vision
 - **Currently learning:** Prompt engineering, fine-tuning, MLOps
 - **Open to collaborate on:** intelligent, AI-powered products
