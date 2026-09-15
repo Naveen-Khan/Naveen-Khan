@@ -1,211 +1,161 @@
 <div align="center">
 
-# 👋 Naveen Khan
-### AI Engineer | Building Production-Ready AI Systems
+# <span style="color:#6C5CE7">Naveen</span> <span style="color:#00CEC9">Khan</span>
 
-[![Email](https://img.shields.io/badge/Email-naveenkhan0059%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naveenkhan0059@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-khan)
-[![GitHub](https://img.shields.io/badge/GitHub-Naveen--Khan-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveen-Khan)
-[![Location](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-brightgreen?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+### AI/ML Engineer | Automation Engineer | LLM &amp; RAG
 
-</div>
+<img src="https://img.shields.io/badge/-AI%2FML%20Engineer-6C5CE7?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Automation%20Engineer-00B894?style=for-the-badge"/> <img src="https://img.shields.io/badge/-LLM%20%26%20RAG-00CEC9?style=for-the-badge"/>
 
----
+<a href="https://www.linkedin.com/in/naveen-khan-417103258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:naveenkhan0059@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://naveen-khan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00B894?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"/></a>
 
-## 🚀 About Me
+<br><br>
 
-I'm an **AI Engineer** passionate about building **production-ready AI systems** that solve real-world problems. My expertise spans **Large Language Models (LLMs)**, **Agentic Workflows**, **Computer Vision**, and **Enterprise AI Integration**. I focus on systems that work reliably under real-world conditions with proper scalability, monitoring, and deployment strategies.
-
-**Currently:** Exploring opportunities in **Enterprise AI**, **LLM Applications**, **Agentic Systems**, and **Production ML Engineering**.
-
----
-
-## 💼 Professional Experience
-
-### 🏥 **AI Engineer — Clinical Research Platform** | Sofstica Solutions *(AI Hackathon, 2026)*
-**Text-to-SQL Engine with Full Data Provenance Tracking**
-- Engineered a **Text-to-SQL engine** over **912,284 patient records** enabling natural language queries on medical databases
-- Built **real-time cohort exploration system** for clinical researchers with LLM-generated research summaries
-- Implemented full **data provenance tracking** to ensure HIPAA compliance and audit trails
-- Developed **FastAPI backend** + **Next.js frontend** with Docker containerization for deployment
-- **Impact:** Reduced clinical data query time by 70% and enabled non-technical researchers to access complex datasets
-
-**Tech Stack:** `Python` `FastAPI` `Next.js` `LangChain` `SQLite` `Azure` `Docker` `LLMs`
-
----
-
-### 🛡️ **Lead AI Engineer — SAFELINK** | Personal Safety Wearable *(2024–2026)*
-**AI-Powered Multimodal Smart Wearable with Real-Time Threat Detection**
-- Developed **YOLOv8-based robbery detection model** achieving **95% accuracy** with **<5 second alert response time**
-- Implemented **multilingual speech recognition** system for hands-free emergency activation
-- Engineered **real-time edge inference** on Raspberry Pi 4 + ESP32 IoT stack
-- Integrated **GPS/GSM emergency response system** with automated evidence capture (photo/video/audio)
-- **Awards & Recognition:**
-  - 🥈 **2nd Place** — IEEE Computer Society Exhibition 2025 (45+ competing projects)
-  - 📄 **Published** — *SAFELINK: A Multimodal Smart Wearable Device for Personal Safety* in **THESES: International Journal of Multidisciplinary Research (2026)**
-
-**Tech Stack:** `PyTorch` `YOLOv8` `Raspberry Pi 4` `ESP32` `IoT` `GPS/GSM` `Python` `Computer Vision`
-
----
-
-### 🏢 **AI Engineer — Enterprise RAG System** | Civil Aviation Authority of Pakistan *(2025)*
-**Conversational AI for Organizational Knowledge Retrieval**
-- Built **semantic RAG pipeline** across **100+ organizational PDFs** using vector embeddings
-- Implemented **Retrieval Augmented Generation (RAG)** with LangChain for accurate, source-backed responses
-- Optimized **document indexing & semantic retrieval** using Hugging Face embeddings
-- Deployed **FastAPI backend** + **.NET frontend** integration for enterprise environment
-- **Impact:** Reduced internal query resolution time by **60%** and improved employee productivity
-
-**Tech Stack:** `LangChain` `RAG` `LLMs` `Hugging Face` `FastAPI` `.NET` `Vector Search`
-
----
-
-### 👁️ **Computer Vision Engineer** | Itsolera Pvt. Ltd *(2026)*
-**Multi-Domain CNN & YOLO Models for Visual Intelligence**
-- Trained **YOLOv8 and CNN models** on **10,000+ images** across three domains:
-  - 🏥 Medical image classification (**93% accuracy**)
-  - 🛣️ Damaged road detection for infrastructure monitoring
-  - 🚨 Theft detection for security applications
-- Built **end-to-end automated data pipelines** using Roboflow for data augmentation & labeling
-- Developed **FastAPI inference server** with **Streamlit dashboard** for model visualization
-- Deployed models with real-time prediction capabilities and performance monitoring
-
-**Tech Stack:** `PyTorch` `YOLOv8` `CNN` `Roboflow` `FastAPI` `Streamlit` `Computer Vision`
-
----
-
-## 🎯 Core Competencies
-
-### **AI & Machine Learning**
-- **LLMs & Generative AI:** RAG, Prompt Engineering, Fine-tuning, LLM Agents, Chain-of-Thought
-- **Computer Vision:** YOLO, CNN, Image Classification, Object Detection, Real-time Inference
-- **NLP:** Text Processing, Semantic Search, Embeddings, Information Retrieval
-- **Traditional ML:** Supervised/Unsupervised Learning, Hyperparameter Optimization, Model Evaluation
-
-### **Frameworks & Libraries**
-- **Deep Learning:** PyTorch, TensorFlow, Keras
-- **LLM Frameworks:** LangChain, LlamaIndex, Hugging Face Transformers
-- **API & Backend:** FastAPI, Django, REST APIs
-- **Data Visualization:** Streamlit, Plotly, Matplotlib
-- **ML Tools:** Scikit-learn, XGBoost, Optuna
-
-### **Data & Databases**
-- **Vector Databases:** Pinecone, FAISS, Weaviate, Milvus
-- **Relational Databases:** MySQL, PostgreSQL, SQLite
-- **Data Processing:** Pandas, NumPy, Apache Spark
-- **Data Workflow:** ETL Pipeline Design, Data Validation, Data Quality
-
-### **Infrastructure & DevOps**
-- **Cloud Platforms:** Azure, Google Cloud (GCP)
-- **Containerization:** Docker, Docker Compose
-- **Deployment:** Vercel, Azure App Service, AWS Lambda
-- **Development Tools:** Git, GitHub, GitHub Actions, n8n Automation
-- **Monitoring & Logging:** Model Performance Tracking, Error Logging, Alerting
-
-### **Frontend & Full-Stack**
-- **Frontend:** Next.js, React, Tailwind CSS
-- **Full-Stack:** Python-JavaScript, .NET Integration
-- **APIs:** REST API Design, GraphQL
-
----
-
-## 🏆 Featured Projects
-
-### 📊 **LLM-Powered Clinical Decision Support**
-Multi-agent system combining medical knowledge retrieval with real-time patient data analysis. Built with LangChain agents and vector databases.
-- **Key Metrics:** 912K+ records, 70% query improvement
-- **Tech:** LLMs, RAG, FastAPI, Vector Search
-
-### 🎥 **Real-Time YOLOv8 Deployment**
-Production-grade computer vision pipeline with sub-100ms inference latency on edge devices.
-- **Key Metrics:** 95% accuracy, <50ms latency, 24/7 uptime
-- **Tech:** PyTorch, YOLO, Edge Computing, IoT
-
-### 🔍 **Semantic Document Search Engine**
-Full-text + semantic hybrid search over large document collections using embeddings.
-- **Key Metrics:** Sub-second response time, 99% retrieval accuracy
-- **Tech:** Pinecone, LangChain, FastAPI, Semantic Search
-
----
-
-## 📚 Education
-
-**BE Computer Systems Engineering** — Mehran University of Engineering & Technology
-- *Nov 2021 – Dec 2025*
-- **CGPA:** 3.6 / 4.0 (Distinction)
-- **Relevant Coursework:** Machine Learning, Computer Vision, Data Science, System Design, Database Systems
-
----
-
-## 📰 Publications & Recognitions
-
-> **Khan, N., et al. (2026).** *SAFELINK: A Multimodal Smart Wearable Device for Personal Safety.*  
-> **THESES: International Journal of Multidisciplinary Research.**
-
-**Awards:**
-- 🥈 **2nd Place** — IEEE Computer Society Exhibition 2025 (45+ competing projects)
-- 🏆 Recognition for Innovation in AI-Powered Wearables
-
----
-
-## 📊 Quick Stats
-
-| Focus Area | Key Achievement | Scale |
-|-----------|-----------------|-------|
-| **LLMs & RAG** | Clinical data query optimization | 912K+ records |
-| **Computer Vision** | Real-time threat detection | 95% accuracy, <5s response |
-| **Enterprise AI** | Internal query resolution | 60% improvement |
-| **ML Models** | Multi-domain CV models | 93%+ accuracy |
-
----
-
-## 🔧 Tech Stack Overview
-
-```
-🤖 AI/ML:        LLMs | RAG | PyTorch | TensorFlow | Scikit-learn | YOLO | Computer Vision
-💾 Databases:    Pinecone | FAISS | PostgreSQL | MySQL | SQLite | Vector Databases
-🔧 Backend:      FastAPI | Django | Python | .NET | REST APIs
-🎨 Frontend:     Next.js | React | Streamlit | Tailwind CSS
-☁️  Cloud:        Azure | Google Cloud | AWS Lambda | Vercel
-🐳 DevOps:       Docker | GitHub Actions | CI/CD | Monitoring
-```
-
----
-
-## 🎓 Continuous Learning
-
-Actively exploring:
-- **Advanced LLM Techniques:** Function Calling, Multi-Agent Systems, Retrieval Optimization
-- **Production ML Systems:** Model Monitoring, A/B Testing, Drift Detection
-- **Edge AI:** Deploying models on resource-constrained devices
-- **Responsible AI:** Bias Detection, Explainability, Ethical AI
-
----
-
-## 💬 Let's Connect!
-
-I'm open to collaborations and opportunities in:
-- 🤖 **Enterprise AI & LLM Applications**
-- 👀 **Computer Vision & Real-Time Inference**
-- 🔗 **Agentic AI Systems**
-- 📊 **Production ML Engineering**
-- 🏥 **Healthcare AI Solutions**
-- 🚀 **Scalable AI Infrastructure**
-
-<div align="center">
-
-**📧 [naveenkhan0059@gmail.com](mailto:naveenkhan0059@gmail.com)**  
-**🔗 [linkedin.com/in/naveen-khan](https://www.linkedin.com/in/naveen-khan)**  
-**💻 [github.com/Naveen-Khan](https://github.com/Naveen-Khan)**
-
-*Building the future of AI, one production system at a time.* 🚀
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding illustration" width="40%"/>
 
 </div>
 
----
+<br>
+
+<table width="100%">
+<tr><td>
+
+### About me
+
+Computer Systems Engineering graduate building real-world AI products — from RAG-powered chatbots to medical image diagnosis tools. Focused on shipping practical AI that reduces operational costs and solves real problems.
+
+- **Currently:**Currently looking for oportunity as Ai Engineer
+- **Focus areas:** LLM integration, RAG pipelines, computer vision
+- **Currently learning:** Prompt engineering, fine-tuning, MLOps
+- **Open to collaborate on:** intelligent, AI-powered products
+
+</td></tr>
+</table>
+
+<br>
+
+### Tech stack
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**AI & Machine Learning**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+**LLMs & AI Automation**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Web Development**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+**IoT & Embedded**
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&amp;logo=espressif&amp;logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**Data & Tools**
+
+<img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Featured projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+> **[AI Chatbot Assistant (CATI)](https://github.com/Naveen-Khan/CATI--chatbot)**
+>
+> RAG-based dialogue agent using Mistral LLM, Groq API, and FAISS semantic search — improved response efficiency by 40% across 50+ documents.
+>
+> `RAG` `FastAPI` `LangChain` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+> **[Medical Disease Diagnosis Agent](https://github.com/Naveen-Khan/Deep-learning-Projects/tree/main/Brain-tumor-Classification)**
+>
+> DenseNet121 classifier on MRI data — 95% training and 93% validation accuracy with zero overfitting. Clinician-facing Streamlit interface.
+>
+> `TensorFlow` `Keras` `CNNs` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> **[Machdollas AI Customer Support Agent](https://machdonals-ai-agent.vercel.app/)**
+>
+> 24/7 autonomous AI agent using n8n and Google Gemini, cutting manual support workload by 65% and order errors by 40%.
+>
+> `n8n` `Google Gemini` `Webhooks` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+> **[Multimodal Smart Wearable for Safety](https://github.com/Naveen-Khan/Multimodal-Smar-Wearable-Device-For-Personal-Saftey)**
+>
+> YOLO-based threat detection at 91% precision, with GPS tracking and panic-button alerts. 2nd place, IEEE CS Society Exhibition, MUET 2025.
+>
+> `ESP32` `OpenCV` `YOLO` `IoT`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Education
+
+**BE in Computer Systems Engineering**
+Mehran University of Engineering and Technology — CGPA 3.6/4.0 — Nov 2021 to Jan 2026
+
+<br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Naveen-Khan&color=blue)
+---
+
+*Open to interesting opportunities and collaborations*
 
 </div>
