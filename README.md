@@ -1,112 +1,161 @@
 <div align="center">
 
-# Naveen Khan
+# <span style="color:#6C5CE7">Naveen</span> <span style="color:#00CEC9">Khan</span>
 
-**AI/ML Engineer • Automation Engineer • LLM & RAG Specialist**
+### AI/ML Engineer | Automation Engineer | LLM &amp; RAG
 
-Building intelligent systems that solve real problems — from RAG-powered chatbots to medical imaging solutions.
+<img src="https://img.shields.io/badge/-AI%2FML%20Engineer-6C5CE7?style=for-the-badge"/> <img src="https://img.shields.io/badge/-Automation%20Engineer-00B894?style=for-the-badge"/> <img src="https://img.shields.io/badge/-LLM%20%26%20RAG-00CEC9?style=for-the-badge"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-khan-417103258)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naveenkhan0059@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00B894?style=flat-square&logo=googlechrome&logoColor=white)](https://naveen-khan.github.io/portfolio/)
+<a href="https://www.linkedin.com/in/naveen-khan-417103258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
+<a href="mailto:naveenkhan0059@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"/></a>
+<a href="https://naveen-khan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-00B894?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white"/></a>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding illustration" width="35%"/>
+<br><br>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding illustration" width="40%"/>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+<table width="100%">
+<tr><td>
 
-Computer Systems Engineering graduate (CGPA 3.6/4.0) with a proven track record of building production AI products. Passionate about shipping practical solutions that reduce costs and improve user experiences.
+### About me
 
-- 🎯 **Currently:** Seeking AI Engineer opportunities to make impact with ML/LLM solutions
-- 🔍 **Expertise:** RAG pipelines, LLM integration, computer vision, prompt engineering
-- 📚 **Learning:** Fine-tuning techniques, MLOps, production ML deployment
-- 🤝 **Collaborating on:** Intelligent, scalable AI-powered applications
+Computer Systems Engineering graduate building real-world AI products — from RAG-powered chatbots to medical image diagnosis tools. Focused on shipping practical AI that reduces operational costs and solves real problems.
 
----
+- **Currently:**Currently looking for oportunity as Ai Engineer
+- **Focus areas:** LLM integration, RAG pipelines, computer vision
+- **Currently learning:** Prompt engineering, fine-tuning, MLOps
+- **Open to collaborate on:** intelligent, AI-powered products
 
-## 🛠️ Tech Stack
+</td></tr>
+</table>
 
-### **AI & Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+<br>
 
-### **LLMs & AI Automation**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### Tech stack
 
-### **Backend & Data**
-![MySQL](https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### **Frontend & IoT**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+**AI & Machine Learning**
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&amp;logo=keras&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
 
-## 🚀 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-### **1. AI Chatbot Assistant (CATI)**
-**RAG-powered dialogue agent with semantic search**
+**LLMs & AI Automation**
 
-- 📊 40% improvement in response efficiency across 50+ documents
-- 🔧 **Stack:** FastAPI • LangChain • Mistral LLM • FAISS • Groq API
-- 🔗 [View Project](https://github.com/Naveen-Khan/CATI--chatbot)
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white"/>
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### **2. Medical Disease Diagnosis Agent**
-**Deep learning classifier for medical imaging**
+**Web Development**
 
-- 🎯 95% training accuracy | 93% validation accuracy (zero overfitting)
-- 🏥 Clinician-facing Streamlit interface for ease of use
-- 🔧 **Stack:** TensorFlow • Keras • DenseNet121 • CNN
-- 🔗 [View Project](https://github.com/Naveen-Khan/Deep-learning-Projects/tree/main/Brain-tumor-Classification)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white"/>
 
----
+</td>
+<td width="50%" valign="top">
 
-### **3. Machdollas AI Customer Support Agent**
-**24/7 autonomous AI agent reducing manual workload**
+**IoT & Embedded**
 
-- 📉 65% reduction in support workload | 40% fewer order errors
-- ⚙️ **Stack:** n8n • Google Gemini • Webhooks • Vercel
-- 🔗 [Live Demo](https://machdonals-ai-agent.vercel.app/)
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&amp;logo=espressif&amp;logoColor=white"/>
 
----
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### **4. Multimodal Smart Wearable for Safety**
-**IoT device with AI threat detection**
+**Data & Tools**
 
-- 🥈 2nd place, IEEE CS Society Exhibition, MUET 2025
-- 🎯 91% detection precision with GPS tracking & panic alerts
-- 🔧 **Stack:** ESP32 • OpenCV • YOLO • IoT
-- 🔗 [View Project](https://github.com/Naveen-Khan/Multimodal-Smar-Wearable-Device-For-Personal-Saftey)
+<img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
 
----
+</td>
+</tr>
+</table>
 
-## 🎓 Education
+<br>
+
+### Featured projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+> **[AI Chatbot Assistant (CATI)](https://github.com/Naveen-Khan/CATI--chatbot)**
+>
+> RAG-based dialogue agent using Mistral LLM, Groq API, and FAISS semantic search — improved response efficiency by 40% across 50+ documents.
+>
+> `RAG` `FastAPI` `LangChain` `NLP`
+
+</td>
+<td width="50%" valign="top">
+
+> **[Medical Disease Diagnosis Agent](https://github.com/Naveen-Khan/Deep-learning-Projects/tree/main/Brain-tumor-Classification)**
+>
+> DenseNet121 classifier on MRI data — 95% training and 93% validation accuracy with zero overfitting. Clinician-facing Streamlit interface.
+>
+> `TensorFlow` `Keras` `CNNs` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+> **[Machdollas AI Customer Support Agent](https://machdonals-ai-agent.vercel.app/)**
+>
+> 24/7 autonomous AI agent using n8n and Google Gemini, cutting manual support workload by 65% and order errors by 40%.
+>
+> `n8n` `Google Gemini` `Webhooks` `Vercel`
+
+</td>
+<td width="50%" valign="top">
+
+> **[Multimodal Smart Wearable for Safety](https://github.com/Naveen-Khan/Multimodal-Smar-Wearable-Device-For-Personal-Saftey)**
+>
+> YOLO-based threat detection at 91% precision, with GPS tracking and panic-button alerts. 2nd place, IEEE CS Society Exhibition, MUET 2025.
+>
+> `ESP32` `OpenCV` `YOLO` `IoT`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Education
 
 **BE in Computer Systems Engineering**
-*Mehran University of Engineering and Technology (MUET)*
-- **Duration:** Nov 2021 — Jan 2026
-- **CGPA:** 3.6 / 4.0
+Mehran University of Engineering and Technology — CGPA 3.6/4.0 — Nov 2021 to Jan 2026
 
----
+<br>
 
 <div align="center">
 
-### 💡 Open to collaborations on impactful AI projects
+---
 
-**Let's build something amazing together!**
+*Open to interesting opportunities and collaborations*
 
 </div>
