@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="color:#6C5CE7">Naveen</span> <span style="color:#00CEC9">Khan</span>
+# <span style="color:#6C5CE7">Naveen</span> <span style="color:#00CEC9"></span>
 
 ### AI/ML Engineer | Automation Engineer | LLM & RAG Specialist
 
